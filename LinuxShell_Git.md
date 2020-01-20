@@ -27,3 +27,13 @@
     - echo $i
     - done
     - =to print 1st 10 no.s
++ sed = stream editor
++ find . -type f -name "*.csv" = searches for a file in the current directory which ends with .csv
+# Git
++ git status = to preview status of git
++ git fetch = to fetch all the codes from all the branches
++ git checkout develop = swithces to a different branch i.e develop
++ git diff . = to show all changes made in the current directory
++ git add . = to add all files of the current directory in the staging area
++ git commit -m "commit text" = to commit changes  
++ git log = lists out all the commits
