@@ -35,9 +35,6 @@
 + git checkout develop = swithces to a different branch i.e develop
 + git diff . = to show all changes made in the current directory
 + git add . = to add all files of the current directory in the staging area
-<<<<<<< HEAD
 + git commit -m "commit text" = to commit changes  
 + git log = lists out all the commits
-=======
 + git commit -m "commit text" = to commit changes  
->>>>>>> 477e3da0312ba562db52597e366392b5aeaf2f51
